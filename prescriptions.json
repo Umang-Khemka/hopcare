@@ -1,0 +1,774 @@
+[
+  {
+    "id": "1762355968639",
+    "appointmentId": "4764a851-7c7c-44f7-b0c7-e5eda085cb96",
+    "diagnosis": "Malaria",
+    "medicines": [
+      {
+        "name": "dolo",
+        "type": "Tablet",
+        "dosage": "100",
+        "duration": "2 days",
+        "frequency": "Once daily",
+        "instructions": "After food",
+        "days": "2 days",
+        "timesPerDay": "Once daily"
+      }
+    ],
+    "advice": "Eat at home",
+    "followUp": "2025-11-06",
+    "createdAt": "2025-11-05T15:19:28.639Z"
+  },
+  {
+    "id": "1762357330123",
+    "appointmentId": "d9f46097-6504-4f10-a053-2166db87051f",
+    "diagnosis": "Malaria",
+    "medicines": [
+      {
+        "name": "dolo",
+        "type": "Tablet",
+        "dosage": "100",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "after",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "eat helathy",
+    "followUp": "2025-11-06",
+    "createdAt": "2025-11-05T15:42:10.123Z"
+  },
+  {
+    "id": "1762403300783",
+    "appointmentId": "ef50ad0f-12a6-4355-a506-cc8a0f413663",
+    "diagnosis": "Malaria",
+    "medicines": [
+      {
+        "name": "Dolo",
+        "type": "Tablet",
+        "dosage": "200",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "Avooid Eating outisde",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      },
+      {
+        "name": "Dolo",
+        "type": "Tablet",
+        "dosage": "500",
+        "duration": "5",
+        "frequency": "2",
+        "instructions": "",
+        "days": "5",
+        "timesPerDay": "2"
+      }
+    ],
+    "advice": "Do some blood tests",
+    "followUp": "2025-11-07",
+    "createdAt": "2025-11-06T04:28:20.784Z",
+    "updatedAt": "2025-11-06T04:29:18.132Z"
+  },
+  {
+    "id": "1762403930361",
+    "appointmentId": "59721395-3ed0-4987-b931-f5aacfa56c18",
+    "diagnosis": "Malaria",
+    "medicines": [
+      {
+        "name": "Dolo",
+        "type": "Tablet",
+        "dosage": "100",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "After",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "xyz",
+    "followUp": "2025-11-07",
+    "createdAt": "2025-11-06T04:38:50.362Z"
+  },
+  {
+    "id": "1762418912967",
+    "appointmentId": "2c12a318-6218-4945-bf11-715c5cb17e5d",
+    "diagnosis": "23332e",
+    "medicines": [
+      {
+        "name": "e2ee",
+        "type": "Tablet",
+        "dosage": "500mg",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "dwdbwidwnd",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "wkdnwndkw",
+    "followUp": "2025-11-08",
+    "createdAt": "2025-11-06T08:48:32.967Z"
+  },
+  {
+    "id": "1762427526735",
+    "appointmentId": "bf4e88a6-5ee0-4527-8c3a-209d3c68bd63",
+    "diagnosis": "qafcdfdaewfs",
+    "medicines": [
+      {
+        "name": "afsafffsfef",
+        "type": "Ointment",
+        "dosage": "esfs",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "acfdaca",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "cfasecc",
+    "followUp": "2025-11-07",
+    "createdAt": "2025-11-06T11:12:06.735Z"
+  },
+  {
+    "id": "1762442903828",
+    "appointmentId": "dd6dc7dc-4508-442e-8df4-e5126155ee36",
+    "diagnosis": "adfadaD",
+    "medicines": [
+      {
+        "name": "DAWD",
+        "type": "Tablet",
+        "dosage": "",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "ADADWD",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "AWDWDD",
+    "followUp": "2025-11-07",
+    "createdAt": "2025-11-06T15:28:23.828Z"
+  },
+  {
+    "id": "1762450741775",
+    "appointmentId": "8a911cdb-47a9-4ab0-853a-f24d5a8bbe61",
+    "diagnosis": "malaria",
+    "medicines": [
+      {
+        "name": "dolo",
+        "type": "Tablet",
+        "dosage": "500",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "after",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "eat healthy",
+    "followUp": "2025-11-07",
+    "createdAt": "2025-11-06T17:39:01.776Z"
+  },
+  {
+    "id": "1762452823423",
+    "appointmentId": "9a4dbce2-0706-421e-bc6b-d098ccb7037f",
+    "diagnosis": "malaria",
+    "medicines": [
+      {
+        "name": "dolo",
+        "type": "Tablet",
+        "dosage": "100",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "after",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "eat healthy",
+    "followUp": "2025-11-07",
+    "createdAt": "2025-11-06T18:13:43.423Z",
+    "updatedAt": "2025-11-06T18:14:36.174Z"
+  },
+  {
+    "id": "1762453350077",
+    "appointmentId": "e15e8e86-9eee-41a6-9d96-07067346327e",
+    "diagnosis": "ok",
+    "medicines": [
+      {
+        "name": "ok",
+        "type": "Tablet",
+        "dosage": "100",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "pk",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "n knk",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-06T18:22:30.078Z"
+  },
+  {
+    "id": "1762759765164",
+    "appointmentId": "e93bc53e-4fe0-472d-9fea-a82bd23368c6",
+    "diagnosis": "covid",
+    "medicines": [
+      {
+        "name": "qwerty",
+        "type": "Tablet",
+        "dosage": "100mg",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "take some rest",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "sacd",
+    "followUp": "2025-11-11",
+    "createdAt": "2025-11-10T07:29:25.164Z"
+  },
+  {
+    "id": "1762766849148",
+    "appointmentId": "44525598-8668-4ba9-96b8-cac4348d3445",
+    "diagnosis": "dolo",
+    "medicines": [
+      {
+        "name": "wedwedewdew",
+        "type": "Drops",
+        "dosage": "wdwe",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "wdw",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "dewddewedd",
+    "followUp": "2025-11-11",
+    "createdAt": "2025-11-10T09:27:29.148Z"
+  },
+  {
+    "id": "1762772171665",
+    "appointmentId": "d58b2fc1-72e9-436e-8d15-27cbdfcf0569",
+    "diagnosis": "sdfdds",
+    "medicines": [
+      {
+        "name": "sfsdsfdsdsd",
+        "type": "Inhaler",
+        "dosage": "",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "sdfsdf",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "sfsdfs",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-10T10:56:11.665Z"
+  },
+  {
+    "id": "1762772351510",
+    "appointmentId": "db9f7f1a-8030-45eb-8003-6623f4b67129",
+    "diagnosis": "qwedweded",
+    "medicines": [
+      {
+        "name": "wdwe",
+        "type": "Capsule",
+        "dosage": "500ml",
+        "duration": "7 days",
+        "frequency": "Twice daily",
+        "instructions": "aass",
+        "days": "7 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "assaaa",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-10T10:59:11.510Z"
+  },
+  {
+    "id": "1762806879069",
+    "appointmentId": "2b2e4da0-d327-45ff-a56e-6c58da7a5ea6",
+    "diagnosis": "covid 1111111111",
+    "medicines": [
+      {
+        "name": "sasddddddddfd",
+        "type": "Ointment",
+        "dosage": "10mg",
+        "duration": "10 days",
+        "frequency": "Twice daily",
+        "instructions": "xxxxxxxxxxxxxxccccccccccccccc",
+        "days": "10 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "nnnnnnnnnnnnnm",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-10T20:34:39.069Z"
+  },
+  {
+    "id": "1762809381287",
+    "appointmentId": "f5a7c08b-ed83-4cfd-a9fb-5f38228c4228",
+    "diagnosis": "ddddddddddddddddddddddddddddddddddddddddd",
+    "medicines": [
+      {
+        "name": "cccccccccccccccccccccccccc",
+        "type": "Tablet",
+        "dosage": "",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "fffffffffffffffffffffffffffffffffffffff",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-10T21:16:21.287Z"
+  },
+  {
+    "id": "1762810865374",
+    "appointmentId": "be480920-6fbe-40b0-b9f8-87599e1e54b4",
+    "diagnosis": "eeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "medicines": [
+      {
+        "name": "eeeeeeeeeeeeeeeeeeee",
+        "type": "Tablet",
+        "dosage": "",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-10T21:41:05.374Z"
+  },
+  {
+    "id": "1762812064312",
+    "appointmentId": "fc611a9d-ee09-4d42-8110-60fcd5a432b6",
+    "diagnosis": "77777777777777777777777777777777777777777777777",
+    "medicines": [
+      {
+        "name": "333333333333",
+        "type": "Tablet",
+        "dosage": "",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "gggggggggggggggggggggggggggg",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "ggggggggggggggggggggg",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-10T22:01:04.313Z"
+  },
+  {
+    "id": "1762812310231",
+    "appointmentId": "34a7d39c-5c7c-4ddc-b51c-278d897422b8",
+    "diagnosis": "111111111111111111111111111111",
+    "medicines": [
+      {
+        "name": "111111111111111111111111111111111111111111",
+        "type": "Capsule",
+        "dosage": "1111111111111",
+        "duration": "7 days",
+        "frequency": "Twice daily",
+        "instructions": "1111111111111111111111111111111",
+        "days": "7 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "1111111111111111111111111111111111",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-10T22:05:10.232Z"
+  },
+  {
+    "id": "1762813404584",
+    "appointmentId": "b565e94f-190f-4ef3-b272-ae66bb33bc38",
+    "diagnosis": "qqqqqqqqqqqqqqqqqqqqqqqqqq",
+    "medicines": [
+      {
+        "name": "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqq",
+        "type": "Tablet",
+        "dosage": "qqqqqqqqqqqqq",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "qqqqqqqqqqqqqqqqqqqqqq",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "qqqqqqqqqqqqqqqqqqqqqqqqqq",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-10T22:23:24.584Z"
+  },
+  {
+    "id": "1762817967426",
+    "appointmentId": "ab9d2a7c-7056-4892-927e-d9a8bb64281a",
+    "diagnosis": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+    "medicines": [
+      {
+        "name": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+        "type": "Tablet",
+        "dosage": "zzzzzz",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "zzzzzzzzzzzzzzzzzzz",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "zzzzzzzzzzzzzzzzzz",
+    "followUp": "2025-11-13",
+    "createdAt": "2025-11-10T23:39:27.426Z"
+  },
+  {
+    "id": "1762818880796",
+    "appointmentId": "0e76be8d-2b31-4f10-b461-4720379d1f77",
+    "diagnosis": "covid 1",
+    "medicines": [
+      {
+        "name": "dolo 1",
+        "type": "Capsule",
+        "dosage": "100mg",
+        "duration": "3 days",
+        "frequency": "Twice daily",
+        "instructions": "take meal",
+        "days": "3 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "take rest",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-10T23:54:40.796Z"
+  },
+  {
+    "id": "1762819154405",
+    "appointmentId": "40c74497-c193-46da-abcd-1aee41aed612",
+    "diagnosis": "covid 2",
+    "medicines": [
+      {
+        "name": "dolo 2",
+        "type": "Tablet",
+        "dosage": "100mg",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "take sme rest",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "sleep well",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-10T23:59:14.405Z"
+  },
+  {
+    "id": "1762819914469",
+    "appointmentId": "ad1bea87-619c-4b05-a6e8-39c4399433d8",
+    "diagnosis": "covid 3",
+    "medicines": [
+      {
+        "name": "dolo 3",
+        "type": "Injection",
+        "dosage": "eeee",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "eat healthy",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "take rest",
+    "followUp": "2025-11-17",
+    "createdAt": "2025-11-11T00:11:54.469Z"
+  },
+  {
+    "id": "1762836354161",
+    "appointmentId": "9b456d64-2982-499f-b8e0-4149516343ab",
+    "diagnosis": "covid 1",
+    "medicines": [
+      {
+        "name": "dolo 1",
+        "type": "Tablet",
+        "dosage": "",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "eat healthy6",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "take rest",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-11T04:45:54.161Z"
+  },
+  {
+    "id": "1762836398283",
+    "appointmentId": "c8afa70e-5341-40a7-86bd-2e7900d75dc3",
+    "diagnosis": "covid 2",
+    "medicines": [
+      {
+        "name": "dolo 2",
+        "type": "Tablet",
+        "dosage": "",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "eat healthy 222222",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "take rest 22222",
+    "followUp": "2025-11-13",
+    "createdAt": "2025-11-11T04:46:38.283Z"
+  },
+  {
+    "id": "1762853292316",
+    "appointmentId": "4862c0f7-7d37-4043-b61b-90d0e3fa003c",
+    "diagnosis": "Malaria",
+    "medicines": [
+      {
+        "name": "Dolo",
+        "type": "Tablet",
+        "dosage": "1000",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "After food",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "Eat healthy",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-11T09:28:12.316Z"
+  },
+  {
+    "id": "1762854007568",
+    "appointmentId": "2bf2e255-3c7c-4652-9cb4-4008c482e0ac",
+    "diagnosis": "Dengue",
+    "medicines": [
+      {
+        "name": "paracetamol",
+        "type": "Tablet",
+        "dosage": "1000",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "after",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "eat",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-11T09:40:07.568Z"
+  },
+  {
+    "id": "1762854160051",
+    "appointmentId": "63a4db35-cde9-43fe-872c-9124b3a6b42d",
+    "diagnosis": "zxa",
+    "medicines": [
+      {
+        "name": "ad",
+        "type": "Tablet",
+        "dosage": "1",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "sfed",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "efwe",
+    "followUp": "2025-11-13",
+    "createdAt": "2025-11-11T09:42:40.051Z"
+  },
+  {
+    "id": "1762858109763",
+    "appointmentId": "be99beb5-5693-4c76-86ac-12b997deb4e9",
+    "diagnosis": "Malaria",
+    "medicines": [
+      {
+        "name": "Dolo",
+        "type": "Tablet",
+        "dosage": "500",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "After",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "Gealthy",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-11T10:48:29.763Z"
+  },
+  {
+    "id": "1762858593154",
+    "appointmentId": "112a2906-fdbe-4c4e-b1f1-f7e4fd09bbe4",
+    "diagnosis": "malaria",
+    "medicines": [
+      {
+        "name": "dolo",
+        "type": "Tablet",
+        "dosage": "1000",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-11T10:56:33.155Z"
+  },
+  {
+    "id": "1762859124980",
+    "appointmentId": "1970cd03-0e90-4b4f-b1c7-1d6fd478daf5",
+    "diagnosis": "malaria",
+    "medicines": [
+      {
+        "name": "dolo",
+        "type": "Tablet",
+        "dosage": "100",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "after food",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "eat",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-11T11:05:24.981Z"
+  },
+  {
+    "id": "1762859295857",
+    "appointmentId": "5aff4e93-2ceb-4d18-884e-239e883cdbf8",
+    "diagnosis": "covid",
+    "medicines": [
+      {
+        "name": "dolo",
+        "type": "Tablet",
+        "dosage": "1",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "after",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "eat",
+    "followUp": "2025-11-13",
+    "createdAt": "2025-11-11T11:08:15.858Z"
+  },
+  {
+    "id": "1762860568941",
+    "appointmentId": "4d1dc05c-94b0-497e-868b-8347d4c485b1",
+    "diagnosis": "malaria",
+    "medicines": [
+      {
+        "name": "dolo",
+        "type": "Tablet",
+        "dosage": "100",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "after",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "take rest",
+    "followUp": "2025-11-20",
+    "createdAt": "2025-11-11T10:09:14.480Z"
+  },
+  {
+    "id": "1762921408949",
+    "appointmentId": "f4f1718d-81fa-4615-870d-6b6d336b486c",
+    "diagnosis": "covid 1",
+    "medicines": [
+      {
+        "name": "dolo 1",
+        "type": "Tablet",
+        "dosage": "100mg",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "take rest",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "Eat healthy",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-11T16:29:19.612Z"
+  },
+  {
+    "id": "1762883134080",
+    "appointmentId": "5989e762-39cf-4738-8ea7-814067afd468",
+    "diagnosis": "Malaria",
+    "medicines": [
+      {
+        "name": "Dolo",
+        "type": "Tablet",
+        "dosage": "1000",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "After food",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "Eat healthy",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-11T17:45:34.080Z"
+  },
+  {
+    "id": "1762883363856",
+    "appointmentId": "778cd562-ea2d-4fd2-8c6a-a6d445fc49d9",
+    "diagnosis": "Malaria",
+    "medicines": [
+      {
+        "name": "Dolo",
+        "type": "Tablet",
+        "dosage": "1000",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "After food",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "Eat healthy",
+    "followUp": "2025-11-12",
+    "createdAt": "2025-11-11T17:49:23.857Z"
+  },
+  {
+    "id": "1762922117435",
+    "appointmentId": "fa23bcf8-599a-4e96-aaca-b28059d242b8",
+    "diagnosis": "Malaria",
+    "medicines": [
+      {
+        "name": "Dolo",
+        "type": "Tablet",
+        "dosage": "1000",
+        "duration": "5 days",
+        "frequency": "Twice daily",
+        "instructions": "After",
+        "days": "5 days",
+        "timesPerDay": "Twice daily"
+      }
+    ],
+    "advice": "Eat",
+    "followUp": "2025-11-13",
+    "createdAt": "2025-11-12T04:35:17.436Z"
+  }
+]
